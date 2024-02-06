@@ -1,16 +1,40 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+    "produtos":[
+        {
+            "id":"1",
+            "nome":"Placa de vídeo RTX4090",
+            "imagem":"../imagens/RTX4090.jpg",
+            "descricao":"A NVIDIA® GeForce RTX™ 4090 é a GPU GeForce definitiva.Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, velit pariatur! Molestias totam voluptas, sit nihil aliquam corrupti suscipit error!. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta animi repudiandae, debitis ea eius consequatur nulla earum nostrum quae unde doloremque aspernatur explicabo neque ipsa iusto molestiae perspiciatis ducimus pariatur perferendis eligendi aperiam obcaecati aliquid quam fuga. </br> Esse mollitia nobis error aperiam consectetur laborum corporis autem, alias commodi rerum odio suscipit! Officia dolores, recusandae doloribus dolor iusto laborum rem? Itaque voluptatum pariatur earum cumque vel at minima similique officiis neque nesciunt! Fuga quia voluptates quibusdam hic harum assumenda cupiditate ullam. ",
+            "preco":"2 jóias"
+ 
+        },
+
+        {
+            "id":"2",
+            "nome":"Monitor Gamer AOC Hero 24",
+            "imagem":"../imagens/Monitor.png",
+            "descricao":"Projetado e pensado para os gamers, a base ergonômica garante um controle preciso para o ajuste e adaptação conveniente da altura e ângulo do seu monitor, permitindo que você jogue por ainda mais tempo, sem nenhum desconforto.",
+            "preco":"2 jóias"
+        },
+        {
+            "id":"3",
+            "nome":"Mouse Gamer Razer Basilisk V3",
+            "imagem":"../imagens/Mouse.png",
+            "descricao":"Mouse Gamer Razer Basilisk V3, RGB Chroma, 26000 DPI, Optical Switch, 11 Botões",
+            "preco":"4 jóias"
+        },
+
+        {
+            "id":"4",
+            "nome":"Teclado Óptico Mecânico Gamer Razer",
+            "imagem":"../imagens/Teclado.jpg",
+            "descricao":"Teclado Óptico Mecânico Gamer Razer Huntsman V2, Chroma RGB, Switch Razer Purple",
+            "preco":"4 jóias"
+        }
+
+    ],
+    "resgates":[
+
+    ]
+    
 }
